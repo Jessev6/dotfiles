@@ -1,0 +1,19 @@
+swipe:
+  3:
+    left:
+      command: 'i3 workspace prev'
+    right:
+      command: 'i3 workspace next'
+pinch:
+  in:
+    shortcut: 'ctrl+shift+plus'
+  out:
+    shortcut: 'ctrl+minus'
+
+threshold:
+  swipe: 0.2
+  pinch: 0.2
+
+interval:
+  swipe: 1
+  pinch: 0.2

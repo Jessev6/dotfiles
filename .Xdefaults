@@ -1,0 +1,50 @@
+Xft.dpi:		96
+Xft.antialias:		true
+Xft.rgba:		true
+Xft.hinting:		true
+Xft.hintstyle:		hintslight
+
+URxvt.scrollBar: 	false
+URxvt*font: 		xft:SauceCodePro Nerd Font Mono:size=11
+URxvt*boldFont: 	xft:SauceCodePro Nerd Font Mono:style=Semibold:size=11
+
+URxvt.cursorBlink:	true
+URxvt.cursorColor:	#ffcc00
+URxvt.cursorUnderline:	false
+URxvt.pointerBlank:	true
+
+URxvt.background: 	#263238
+*foreground: 		#eeffff
+*foreground_bold: 	#f1ffff
+
+!! black
+*color0: 		#000000
+*color8: 		#000000
+
+!! red
+*color1: 		#FF5370
+*color9: 		#E53935
+
+!! green
+*color2: 		#c4e88d
+*color10:		#91b859
+
+!! yellow
+*color3: 		#ffcb6b
+*color11:		#ffb62c
+
+!! blue
+*color4: 		#82aaff
+*color12:		#6182b8
+
+!! magenta
+*color5:		#bb80b3
+*color13:		#945eb8
+
+!! cyan
+*color6:		#89aaff
+*color14:		#39adb5
+
+!! white
+*color7:		#ffffff
+*color15:		#ffffff

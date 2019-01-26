@@ -1,0 +1,23 @@
+{
+    "com.github.james-dumas.ulauncher-run": {
+        "url": "https://github.com/James-Dumas/ulauncher-run", 
+        "last_commit_time": "2018-01-29T22:30:49Z", 
+        "last_commit": "ea4b83705cbc90eb2546992170f56bdd9aa8dff2", 
+        "id": "com.github.james-dumas.ulauncher-run", 
+        "updated_at": "2019-01-02T15:07:57.444959"
+    }, 
+    "com.github.ulauncher.ulauncher-timer": {
+        "url": "https://github.com/ulauncher/ulauncher-timer", 
+        "last_commit_time": "2017-05-01T07:30:39Z", 
+        "last_commit": "64e106c57ad90f9f02e9941dfa9780846b7457b9", 
+        "id": "com.github.ulauncher.ulauncher-timer", 
+        "updated_at": "2019-01-02T15:07:59.700450"
+    }, 
+    "com.github.ulauncher.ulauncher-emoji": {
+        "url": "https://github.com/Ulauncher/ulauncher-emoji", 
+        "last_commit_time": "2017-09-02T10:42:54Z", 
+        "last_commit": "8c86fbecce56bc5741a1f2f2f6e5ad77b2ce35bf", 
+        "id": "com.github.ulauncher.ulauncher-emoji", 
+        "updated_at": "2019-01-02T15:08:03.206978"
+    }
+}
